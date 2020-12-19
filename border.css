@@ -1,0 +1,48 @@
+/* html, body {
+    background: rgb(20,20,20);
+    text-align: center;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+  } */
+  ::selection {
+    background: #19f6e8;
+  }
+  .svg-wrapper {
+    position: relative;
+    top: 5%;
+    transform: translateY(-50%);
+    margin: 0 ;
+    width: 40vw;
+    border: 1px solid;
+  }
+  .shape1,
+  .shape2 {
+    stroke-dasharray: 1500;
+    stroke-width: 5px;
+    fill: transparent;
+    stroke: #19f6e8;
+    border-bottom: 3px solid black;
+    transition-timing-function: linear;
+    transition: stroke-dashoffset 4s, stroke-dasharray 2s;
+  }
+  .shape1 {
+    stroke-dashoffset: 1500;
+  }
+  .shape2 {
+    stroke-dashoffset: -1500;
+  }
+  .text {
+    font-family: 'Roboto Condensed';
+    font-size: 2vw;
+    line-height: ;
+    letter-spacing: 0.9vw;
+    color: #fff;
+    top: -48px;
+    position: relative;
+  }
+  .svg-wrapper:hover .shape1,
+  .svg-wrapper:hover .shape2 {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 1500;
+  }

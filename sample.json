@@ -1,0 +1,573 @@
+[
+    {
+        "name": "Domestic Violence",
+        "type": "folder",
+        "oc":"1",
+        "children": [
+            {
+                "name": "Are you physically/emotionally/sexually abused?",
+                "type": "folder",
+                "oc": "2",
+                "op":[{"value":"Yes"},{"value":"No"}],
+                
+                "children": [
+                    {
+                        "name": "By Whom?",
+                        "type": "folder",
+                        "oc": "3",
+                        "op":[{"value":"Husband"},{"value":"In Laws"},{"value":"Parents"}],
+                        "children": [
+                            {
+                                "name": "Did he beat you or forcefully had sex with you?",
+                                "type": "folder",
+                                "oc":"2",
+                                "op":[{"value":"Beat Me"},{"value":"Forcefully had sex with me.(It was a marital rape)"},{"value":"It was an emotional torture"}],
+                                
+                                "children": [
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "If there is a threat of violence, you can get an order of protection, restraining your husband and his family members from commiting violence on you. Your husband or his family members cannot throw you out of the house and you have the freedom to live whereever you want, under the Indian Penal Code section 18 and 19. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am beaten up by my husband. My case is of physical and emotional abusement."
+                                    },
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "The Indian Penal Code section 19 provides that no man can hamper the physical relationship with the women even if he is a husband and he will be punished for this under Protection of Women from Domestic Violence Act, 2005. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am raped by my husband. My case is of marital rape."
+                                    },
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "According to the law, no man can hamper the physical relationship with the women even if he is a husband and he will be punished for this under Protection of Women from Domestic Violence Act, 2005. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am facing emotional torture by my husband. This is case of emotional abusement."
+                                    }
+                                ]
+                            },
+                            
+                            {
+                                "name": "What was the case?",
+                                "type": "folder",
+                                "oc":"3",
+                                "op":[{"value":"Dowry Case(they tortured me for money related issues)"},{"value":"They don't allow me to pursue my career or continue my studies or take my own choices."},{"value":"They forced me for my abortion or pregnancy or there were my child related issues."}],
+                                
+                                
+                                "children": [
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "The Dowry Prohibition Act (1961) defines “dowry”  as any cash, jewelry, valuables, or property which the husband or his family members demand from the bride‘s parents at the time of marriage, as a consideration of marriage. This term also includes demands made subsequent to the marriage from the bride or her parents.  This is a criminal law that punishes the taking and giving of dowry. Under this law, if someone takes, gives or even demands dowry, they can be imprisoned for 6 months or they can be fined upto Rs 5,000. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am tortured by my In-Laws for dowry."
+                                    },
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "Equality of opportunity for all citizens in matters relating to employment or appointment to any office under the state is necessary and is ensured by article 16. The state provides secure means of livelihood equally to both men and women under article 39A. If you are restricted from persuing your job career then you should report a file against your In-Laws under this article. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am restricted by my In-Laws to choose my job career."
+                                    },
+                               
+                                
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "The state provides secure means of livelihood equally to both men and women under article 39A. The state is empowered to make special provisions for women so as to take decisions concerned in preganancy related issues. If you are forced to accept the decisions of your In-Laws regarding your pregnancy then you can file a complaint under this article. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am forced by my In-Laws to drop my child. Only I have the rights to takes decisions related to my pregnancy issues , my In-Laws would not listen."
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "What was the case?",
+                                "type": "folder",
+                                "oc":"2",
+                                "op":[{"value":"They forced for marriage."},{"value":"They don't allow me to pursue my career or continue my studies."}],
+                                
+                                "children": [
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "No one can force you to marry once you are an adult and the state ensures that the strength of the women is not abused by any economic or any phusical means according to the Indian Penal Code article 39E. If you are forced by your parents to marry against your will then you can report a complaint under the Indian Penal Code article 39E. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am forced by my Parents for my marriage even when I am not ready."
+                                    },
+                                    {
+                                        "type": "file",
+                                        "oc":"0",
+                                        "name": "No one can stop your educational growth and the state ensures that the strength of the women is not abused by any economic or any physical means according to the Indian Penal Code article 39E. If you are forced by your parents to persue /not persue certain course in studies against your will, then you can report a complaint under the Indian Penal Code article 39E. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                        "report":"I am facing restriction by my parents from persuing my career or continuing my higher studies."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "file",
+                        "oc":"0",
+                        "name": "Great! You can visit the other sections of our site to know more about women's rights under the Indian Penalty Acts. Be aware and stay safe. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sexual Assault",
+        "type": "folder",
+        "oc":"0",
+        "children": [
+            {
+                "name": "Are you an adult",
+                "type": "folder",
+                "oc": "2",
+                "op":[{"value":"Yes"},{"value":"No"}],
+                "children": [
+                    {
+                        "name": "Did you ever experienced sexual assault?",
+                        "type": "folder",
+                        "oc": "2",
+                        "op":[{"value":"Yes"},{"value":"No"}],
+                        "children": [
+                            {
+                                "name": "What kind of assault?",
+                                "type": "folder",
+                                "oc": "3",
+                                "op":[{"value":"Marital rape"},{"value":"Sexually Molested"},{"value":"Rape"}],
+                               
+                                "children": [
+                                    {
+                                        "name": "Did you report the crime?",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Yes"},{"value":"No"}],
+                                        "children": [
+                                            {
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name":"The best thing about bravery is even a little is enough. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                            },
+                                            {
+                                                "name": "Why did you not report the crime?",
+                                                "type": "folder",
+                                                "oc":"3",
+                                                "op":[{"value":"You think that it is not a crime."},{"value":"You are too afraid of reporting it."},{"value":"Your partner is over controlling."}],
+                                                
+                                                "children": [
+                                                    {
+
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name":"Marital rape is a serious offence and your partner has no right to force you over sexual intercourse. In such case, a women shall seek legal advice for the Protection Of Women from Domestic Violence Act which states that any kind of verbal, emotional, or sexual abuse is a crime under this act. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am raped by my husband and I am not sure whether it is a crime or not."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name":"As an adult you are a free human being and not dependable upon your partner to provide you with anything and the Indian Penal Code ensures that you shall report any crime that harms you even if it is by your husband. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am raped by my husband but I did not report the crime because I am too much afraid of him to complaint a report against him."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name":"As an adult you are a free human being and not dependable upon your partner to provide you with anything and the Indian Penal Code ensures that you shall report any crime that harms you even if it is by your husband. Trying to control someone's life without their persmission is a criminal offense under the Indian Penal Code. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am raped by my husband but I did not report the crime because I am too much afraid of him to complaint a report against him since he is over contolling."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Did you report the crime?",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Yes"},{"value":"No"}],
+                                        "children": [
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name":"She wasn't looking for a knight, she was looking for a sword. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                                
+                                            },
+                                            {
+                                                "name": "Why did you not report the crime?",
+                                                "type": "folder",
+                                                "oc":"3",
+                                                "op":[{"value":"You felt that he was stalking you."},{"value":"He took pictures of you in private act."},{"value":"He showed you pornography or such unappropriate things."}],
+                                                
+                                                "children": [
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "If a man follows or contacts (or attempts) you despite a clear indication of disinterest by you, or monitors the use of internet, email or other electronic communication by you, then he shall be punished under Indian Penal Code section 345D. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am sexually molested but I could not report the crime because I can feel that the crimial is stalking me."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "If a man watches or captures the image of you in a private act or disseminates such an image, he shall be punished under Indian Penal Code section 354C. A private act includes an act where the victim does not expect to be observed by the man or any other person at his behest. If the victim consents to the capture of the image but not to dissemination, then such dissemination shall be punishable. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am sexually molested but I could not report the crime because the crimial has taken pictures of me in private act and I am afraid that he would leak those pictures if I report."
+                                                    },
+                                                
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "No man shall be given the right to make you feel uncomfortable showing pornography against the will of a women. If he does so, then he is punishable under Indian Penal code 354A. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am sexually molested but I could not report the crime as the person has made me uncomfortable by showing the un appropriate images and videos."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Did you report the crime?",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Yes"},{"value":"No"}],
+                                        "children": [
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name": "A strong women looks a challenge in the eye and gives it a wink. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                                
+                                            },
+                                            {
+                                                "name": "Why did you not report the crime?",
+                                                "type": "folder",
+                                                "oc":"3",
+                                                "op":[{"value":"You were blackmailed by the person."},{"value":"You thought the person is so close to your family."},{"value":"You couldn't report as you were scared of losing respect."}],
+                                                
+                                                "children": [
+                                                    
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "Blackmailing is against the law by Indian Penal code section 503 and whoever threatens anyone with the intent to cause harm to taht person then he shall be punished with imprisonment. Every man should pay for his deeds and to ensure this the Indian Penal Code section 354A provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"She was raped but she did not the report the crime because the rapist has blackmailed me that he would take my life."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "No man has the right to harm you and to ensure this you should stand up for whats right. Every man should pay for his deeds and to ensure this the Indian Penal Code section 354A provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"She was raped but she did not the report the crime because the rapist is a close relative and I will be in a lot of trouble if I take actions against him."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "Today its you, tomorrow it can be someone you love. If you are treated bad then report the crime so that the person could not do that to someone else as he did to you. Every man should pay for his deeds and to ensure this the Indian Penal Code section 354A provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"She was raped but she did not the report the crime because I am scared of losing respect infornt of my family, friends and acquaintances."
+                                                    }
+                                                   
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Were you ever made feel uncomfortable?",
+                                "type": "folder",
+                                "oc":"2",
+                                "op":[{"value":"Yes"},{"value":"No"}],
+                                "children": [
+                                    {
+                                        "name": "How were you made feel uncomfortable",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Uncomfortable acts"},{"value":"Unappropriate manner"}],
+                                        
+                                        "children": [
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name": "If a man gestures in any unappropriate manner which a women does not want to see then he shall be punished under Indian Penal Code section 509. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                "report":"I am an adult and I have felt uncomfortable as I was shown pornographic stuffs. I was also shown certain body parts which are not supposed to be shown."
+                                            },
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name": "If a man utters any word, sound, or tries to engage with you in an unappropriate manner then he is punishable under Indian Penal Code section 509. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                "report":"I am an adult and I have felt uncomfortable as I was touched in an unappropriate manner. The touch was not at the right place and I cannot think of it casually as if it was not normal."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Do you know anyone who faced sexual assault?",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Yes"},{"value":"No"}],
+                                        "children": [
+                                            
+                                            {
+                                                "name": "Did they report the crime?",
+                                                "type": "folder",
+                                                "oc":"2",
+                                                "op":[{"value":"Yes"},{"value":"No"}],
+                                                "children": [
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "The enemy doesn't stand a chance when the victim decides to survive. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                                        
+                                                    },
+                                                    {
+                                                        "name": "Why did they not report the crime?",
+                                                        "type": "folder",
+                                                        "oc":"3",
+                                                        "op":[{"value":"They were blackmailed by the person."},{"value":"They thought the person is so close to your family."},{"value":"They couldn't report as you were scared of losing respect."}],
+                                                        
+                                                        "children": [
+                                                           
+                                                            {
+                                                                
+                                                                "type": "file",
+                                                                "oc":"0",
+                                                                "name": "Blackmailing is against the law by Indian Penal code section 503 and whoever threatens anyone with the intent to cause harm to that person then he shall be punished with imprisonment. Under Protection Of Children from Sexual Offences Act 2012, section 3, the insertion of any body part or any object into the body of a child is a criminal offence and the person doing so shall be charged with imprisonment. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                                "report":"She was raped but she did not the report the crime because the rapist has blackmailed me that he would take my life."
+                                                            },
+                                                            {
+                                                                
+                                                                "type": "file",
+                                                                "oc":"0",
+                                                                "name": "No man has the right to harm you and to ensure this you should stand up for whats right. Every man should pay for his deeds and to ensure this the Indian Penal Code section 3 of POCSO provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                                "report":"She was raped but she did not the report the crime because the rapist is a close relative and I will be in a lot of trouble if I take actions against him."
+                                                            },
+                                                            {
+                                                                
+                                                                "type": "file",
+                                                                "oc":"0",
+                                                                "name": "Today its you, tomorrow it can be someone you love. If you are treated bad then report the crime so that the person could not do that to someone else as he did to you. Every man should pay for his deeds and to ensure this the Indian Penal Code section 3 of POCSO provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                                "report":"She was raped but she did not the report the crime because I am scared of losing respect infornt of my family, friends and acquaintances."
+                                                            }
+                                                           
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name": "If you or anyone around you faces any kind of sexual assault then you are bound to report it under the Indian Penal Code section 19, clause 1. As the law identifies sexual offenders in the country as criminals with a sentence of imprisonment according to Indian Penal Code section 354. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                                
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Have you ever experienced sexual assault?",
+                        "type": "folder",
+                        "oc": "2",
+                        "op":[{"value":"Yes"},{"value":"No"}],
+                        "children": [
+                            {
+                                "name": "What kind of assault?",
+                                "type": "folder",
+                                "oc": "2",
+                                "op":[{"value":"Sexually Molested"},{"value":"Rape"}],
+                                
+                                "children": [
+                                    {
+                                        "name": "Did you report the crime?",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Yes"},{"value":"No"}],
+                                        "children": [
+                                            {
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name":"She wasn't looking for a knight, she was looking for a sword. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                            },
+                                            {
+                                                "name": "Why did you not report the crime?",
+                                                "type": "folder",
+                                                "oc":"3",
+                                                "op":[{"value":"You felt that he was taking unappropriate video of you."},{"value":"He took pictures of you in private act."},{"value":"He tried to rape you."}],
+                                               
+                                                "children": [
+                                                    {
+
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name":"Doing pornographic of a child for commercial or personal use is a criminal offence under section 15 of the POCSO Act, 2012. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am sexually molested but I did not the report the crime because the criminal took unappropriate videos of me and I am afraid he would leak those videos in public if I report the crime."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name":"Showing or using a child for pornographic purposes is a criminal offence and shall be reported under section 13 of the POCSO Act, 2012. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am sexually molested but I did not the report the crime because the criminal took pictures of me in private act and I am afraid he would leak those pictures in public if I report the crime."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name":"Trying to rape a child is a criminal offense and results in imprisonment under section 5 of the POCSO Act, 2012. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am sexually molested but I did not the report the crime because the criminal had tried to rape me but he was unsuccessful."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Did you report the crime?",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Yes"},{"value":"No"}],
+                                        "children": [
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name":"A strong women looks a challenge in the eye and gives it a wink. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                                
+                                            },
+                                            {
+                                                "name": "Why did you not report the crime?",
+                                                "type": "folder",
+                                                "oc":"3",
+                                                "op":[{"value":"You were blackmailed by the person."},{"value":"You thought the person is so close to your family."},{"value":"You couldn't report as you were scared of losing respect."}],
+                                                
+                                                "children": [
+                                                    
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "Blackmailing is against the law by Indian Penal code section 503 and whoever threatens anyone with the intent to cause harm to that person then he shall be punished with imprisonment. Under Protection Of Children from Sexual Offences Act 2012, section 3, the insertion of any body part or any object into the body of a child is a criminal offence and the person doing so shall be charged with imprisonment. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am being raped but I did not the report the crime because the rapist has blackmailed me that he would take my life."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "No man has the right to harm you and to ensure this you should stand up for whats right. Every man should pay for his deeds and to ensure this the Indian Penal Code section 3 of POCSO provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am being raped but I did not the report the crime because the rapist is a close relative and I will be in a lot of trouble if I take actions against him."
+                                                    },
+                                                    {
+                                                        
+                                                        "type": "file",
+                                                        "oc":"0",
+                                                        "name": "Today its you, tomorrow it can be someone you love. If you are treated bad then report the crime so that the person could not do that to someone else as he did to you. Every man should pay for his deeds and to ensure this the Indian Penal Code section 3 of POCSO provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                        "report":"I am being raped but I did not the report the crime because I am scared of losing respect infornt of my family, friends and acquaintances."
+                                                    }
+                                                    
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Were you ever made feel uncomfortable?",
+                                "type": "folder",
+                                "oc":"2",
+                                "op":[{"value":"Yes"},{"value":"No"}],
+                                "children": [
+                                    {
+                                        "name": "How were you made feel uncomfortable",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Uncomfortable acts"},{"value":"Unappropriate manner"}],
+                                       
+                                        "children": [
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name": "If a man gestures in any unappropriate manner which a women does not want to see then he shall be punished under Indian Penal Code section 509. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                "report":"I am an adult and I have felt uncomfortable as I was shown pornographic stuffs. I was also shown certain body parts which are not supposed to be shown."
+                                            },
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name": "If a man utters any word, sound, or tries to engage with you in an unappropriate manner then he is punishable under Indian Penal Code section 509. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                "report":"I am an adult and I have felt uncomfortable as I was touched in an unappropriate manner. The touch was not at the right place and I cannot think of it casually as if it was not normal."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Do you know anyone who faced sexual assault?",
+                                        "type": "folder",
+                                        "oc":"2",
+                                        "op":[{"value":"Yes"},{"value":"No"}],
+                                        "children": [
+                                            
+                                            {
+                                                "name": "Did they report the crime?",
+                                                "type": "folder",
+                                                "oc":"2",
+                                                "op":[{"value":"Yes"},{"value":"No"}],
+                                                "children": [
+                                                    {
+                                                        
+                                                        "type": "folder",
+                                                        "oc":"0",
+                                                        "name": "The enemy doesn't stand a chance when the victim decides to survive. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                                        
+                                                    },
+                                                    {
+                                                        "name": "Why did they not report the crime?",
+                                                        "type": "folder",
+                                                        "oc":"3",
+                                                        "op":[{"value":"They were blackmailed by the person."},{"value":"They thought the person is so close to your family."},{"value":"They couldn't report as you were scared of losing respect."}],
+                                                        
+                                                        "children": [
+                                                            
+                                                            {
+                                                                
+                                                                "type": "file",
+                                                                "oc":"0",
+                                                                "name": "Blackmailing is against the law by Indian Penal code section 503 and whoever threatens anyone with the intent to cause harm to that person then he shall be punished with imprisonment. Under Protection Of Children from Sexual Offences Act 2012, section 3, the insertion of any body part or any object into the body of a child is a criminal offence and the person doing so shall be charged with imprisonment. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                                "report":"She was raped but she did not the report the crime because the rapist has blackmailed me that he would take my life."
+                                                            },
+                                                            {
+                                                                
+                                                                "type": "file",
+                                                                "oc":"0",
+                                                                "name": "No man has the right to harm you and to ensure this you should stand up for whats right. Every man should pay for his deeds and to ensure this the Indian Penal Code section 3 of POCSO provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                                "report":"She was raped but she did not the report the crime because the rapist is a close relative and I will be in a lot of trouble if I take actions against him."
+                                                            },
+                                                            {
+                                                                
+                                                                "type": "file",
+                                                                "oc":"0",
+                                                                "name": "Today its you, tomorrow it can be someone you love. If you are treated bad then report the crime so that the person could not do that to someone else as he did to you. Every man should pay for his deeds and to ensure this the Indian Penal Code section 3 of POCSO provides that if a man makes physical contact for sexual purposes then he shall be punished under this section. So, calm down, you have your laws, go file your case. If the authorities don't help we have a law against them too. We have prepared a report according to your answers you can mail that to the authorities too. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)",
+                                                                "report":"She was raped but she did not the report the crime because I am scared of losing respect infornt of my family, friends and acquaintances."
+                                                            }
+                                                            
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                
+                                                "type": "file",
+                                                "oc":"0",
+                                                "name": "If you or anyone around you faces any kind of sexual assault then you are bound to report it under the Indian Penal Code section 19, clause 1. As the law identifies sexual offenders in the country as criminals with a sentence of imprisonment according to Indian Penal Code section 354. If you want to talk to a person manually regarding this then please contact: 1091 (for women in distress), 181 (women helpline domestic abuse)"
+                                                
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
